@@ -20,7 +20,7 @@ A simple and intuitive notes application built with HTML, CSS, and JavaScript. I
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tejaspatil7903/Notes-By-Tejas/tree/d59b3427e2e8028be015155f8762e8af6b11a4fc
+    git clone https://github.com/tejaspatil7903/Notes-By-Tejas
     ```
 
 2. Navigate to the project directory:
