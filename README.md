@@ -26,7 +26,7 @@ A simple and intuitive notes application built with HTML, CSS, and JavaScript. I
 2. Navigate to the project directory:
 
     ```bash
-    cd notes-app
+    cd notes-by-tejas
     ```
 
 3. Open `index.html` in your preferred browser.
